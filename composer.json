@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Mage_Compiler",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "This module compiles all files of a Magento installation and creates a single include path to increase performance",
+    "authors": [
+    {
+        "name": "Magento Core Team",
+        "email": "core@magentocommerce.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
